@@ -9,6 +9,11 @@
 
     <script src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
 
+    <link type="text/css" rel="stylesheet" href="https://raw.github.com/brunomeira/hangout_app/master/src/stylesheets/meeting.css" />
+
+    <div class="meeting-table">
+      <img src="https://raw.github.com/brunomeira/hangout_app/master/src/images/meeting_table.jpg" />
+    </div>
 
     ]]>
   </Content>
