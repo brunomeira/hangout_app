@@ -1,7 +1,7 @@
 var HOST = 'https://raw.github.com/brunomeira/hangout_app/master/';
 
 var initHangout = function (apiInitEvent) {
-  alert("yay");
+  gapi.hangout.layout.setChatPaneVisible(true);
   gapi.hangout.onApiReady.remove(initHangout);
 }
 

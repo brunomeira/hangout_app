@@ -11,8 +11,14 @@
 
     <link type="text/css" rel="stylesheet" href="https://rawgithub.com/brunomeira/hangout_app/master/src/stylesheets/meeting.css" />
 
-    <div class="meeting-table">
-      <img src="https://raw.github.com/brunomeira/hangout_app/master/src/images/meeting_table.jpg" />
+    <div id="container">
+      <div class="participants">
+
+      </div>
+
+      <div class="meeting-table">
+        <img src="https://raw.github.com/brunomeira/hangout_app/master/src/images/meeting_table.jpg" />
+      </div>
     </div>
 
 
