@@ -1,0 +1,1 @@
+var HOST  = 'https://raw.github.com/brunomeira/hangout_app/master/';
